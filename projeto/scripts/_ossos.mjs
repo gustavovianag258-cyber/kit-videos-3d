@@ -1,0 +1,12 @@
+import { readFileSync } from "node:fs";
+import * as THREE from "three";
+import { FBXLoader } from "three/examples/jsm/loaders/FBXLoader.js";
+globalThis.self = globalThis; globalThis.window = globalThis;
+globalThis.document = { createElementNS: () => ({ style: {}, addEventListener(){}, removeEventListener(){} }) };
+const f = process.argv[2];
+const buf = readFileSync(f);
+const o = new FBXLoader().parse(buf.buffer.slice(buf.byteOffset, buf.byteOffset + buf.byteLength), "");
+o.updateMatrixWorld(true);
+const v = new THREE.Vector3(); let n=0, meshes=0; const vistos = new Set();
+o.traverse(x => { if (x.isMesh) meshes++; if (x.isBone) { n++; const nm=x.name.replace(/mixamorig\d*:?/,""); if (vistos.has(nm)) return; vistos.add(nm); if (/^(Hips|Spine|Spine1|Spine2|Neck|Head|HeadTop_End|Left\w*|.*)$/.test(nm) && !/Right/.test(nm)) { x.getWorldPosition(v); console.log(nm, v.toArray().map(n=>n.toFixed(1)).join(" ")); } } });
+console.log(n, "ossos", meshes, "malhas");

@@ -1,0 +1,126 @@
+{
+ "take": "t2",
+ "duracao": 103,
+ "pecas": [
+  {
+   "voz": "narrador",
+   "frase": 0,
+   "de": 0,
+   "ate": 3.662,
+   "inicio": 0.3,
+   "fim": 3.962
+  },
+  {
+   "voz": "narrador",
+   "frase": 1,
+   "de": 3.662,
+   "ate": 13.654,
+   "inicio": 4.662,
+   "fim": 14.654
+  },
+  {
+   "voz": "icaro",
+   "arquivo": "icaro-ai-t1",
+   "de": 0,
+   "ate": 2,
+   "inicio": 14.804,
+   "fim": 16.804
+  },
+  {
+   "voz": "narrador",
+   "frase": 2,
+   "de": 13.654,
+   "ate": 17.187,
+   "inicio": 17.004,
+   "fim": 20.537
+  },
+  {
+   "voz": "icaro",
+   "arquivo": "icaro-ai-t1",
+   "de": 2.45,
+   "ate": 6,
+   "inicio": 20.687,
+   "fim": 24.237
+  },
+  {
+   "voz": "narrador",
+   "frase": 3,
+   "de": 17.187,
+   "ate": 23.347,
+   "inicio": 24.837,
+   "fim": 30.997
+  },
+  {
+   "voz": "narrador",
+   "frase": 4,
+   "de": 23.347,
+   "ate": 34.301,
+   "inicio": 31.597,
+   "fim": 42.551
+  },
+  {
+   "voz": "narrador",
+   "frase": 5,
+   "de": 34.301,
+   "ate": 40.425,
+   "inicio": 43.251,
+   "fim": 49.375
+  },
+  {
+   "voz": "alien",
+   "arquivo": "alien-t1",
+   "de": 0,
+   "ate": 1.3,
+   "inicio": 49.675,
+   "fim": 51.463
+  },
+  {
+   "voz": "icaro",
+   "arquivo": "icaro-parceiro-t1",
+   "de": 0,
+   "ate": 3.4,
+   "inicio": 51.713,
+   "fim": 55.113
+  },
+  {
+   "voz": "narrador",
+   "frase": 6,
+   "de": 40.425,
+   "ate": 50.697,
+   "inicio": 55.713,
+   "fim": 65.985
+  },
+  {
+   "voz": "narrador",
+   "frase": 7,
+   "de": 50.697,
+   "ate": 55.132,
+   "inicio": 69.985,
+   "fim": 74.42
+  },
+  {
+   "voz": "narrador",
+   "frase": 8,
+   "de": 55.132,
+   "ate": 65.059,
+   "inicio": 75.22,
+   "fim": 85.146
+  },
+  {
+   "voz": "narrador",
+   "frase": 9,
+   "de": 65.059,
+   "ate": 72.207,
+   "inicio": 86.646,
+   "fim": 93.795
+  },
+  {
+   "voz": "narrador",
+   "frase": 10,
+   "de": 72.207,
+   "ate": 76.8,
+   "inicio": 94.595,
+   "fim": 99.188
+  }
+ ]
+}

@@ -1,0 +1,829 @@
+[
+ {
+  "de": 3.0,
+  "ate": 4.4,
+  "palavras": [
+   {
+    "t": "Prometeu",
+    "s": 3.0,
+    "d": false
+   },
+   {
+    "t": "IRL!",
+    "s": 3.62,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 4.4,
+  "ate": 5.32,
+  "palavras": [
+   {
+    "t": "Cara,",
+    "s": 4.4,
+    "d": false
+   },
+   {
+    "t": "olha",
+    "s": 4.64,
+    "d": false
+   },
+   {
+    "t": "só:",
+    "s": 4.72,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 5.32,
+  "ate": 6.4,
+  "palavras": [
+   {
+    "t": "Não",
+    "s": 5.32,
+    "d": false
+   },
+   {
+    "t": "tinha",
+    "s": 5.48,
+    "d": false
+   },
+   {
+    "t": "tempo",
+    "s": 5.72,
+    "d": false
+   },
+   {
+    "t": "pra",
+    "s": 6.18,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 6.4,
+  "ate": 7.27,
+  "palavras": [
+   {
+    "t": "fazer",
+    "s": 6.4,
+    "d": false
+   },
+   {
+    "t": "IRL.",
+    "s": 6.56,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 7.7,
+  "ate": 8.71,
+  "palavras": [
+   {
+    "t": "Não",
+    "s": 7.7,
+    "d": false
+   },
+   {
+    "t": "tinha",
+    "s": 7.96,
+    "d": false
+   },
+   {
+    "t": "sol.",
+    "s": 8.18,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 8.96,
+  "ate": 9.89,
+  "palavras": [
+   {
+    "t": "Não",
+    "s": 8.96,
+    "d": false
+   },
+   {
+    "t": "tinha",
+    "s": 9.1,
+    "d": false
+   },
+   {
+    "t": "nada.",
+    "s": 9.34,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 9.98,
+  "ate": 11.21,
+  "palavras": [
+   {
+    "t": "Não",
+    "s": 9.98,
+    "d": false
+   },
+   {
+    "t": "tinha",
+    "s": 10.1,
+    "d": false
+   },
+   {
+    "t": "porra",
+    "s": 10.28,
+    "d": false
+   },
+   {
+    "t": "nenhuma.",
+    "s": 10.72,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 11.46,
+  "ate": 12.32,
+  "palavras": [
+   {
+    "t": "Eu",
+    "s": 11.46,
+    "d": false
+   },
+   {
+    "t": "dei",
+    "s": 11.58,
+    "d": false
+   },
+   {
+    "t": "um",
+    "s": 11.66,
+    "d": false
+   },
+   {
+    "t": "mergulhinho,",
+    "s": 11.72,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 12.32,
+  "ate": 12.9,
+  "palavras": [
+   {
+    "t": "tirei",
+    "s": 12.32,
+    "d": false
+   },
+   {
+    "t": "as",
+    "s": 12.46,
+    "d": false
+   },
+   {
+    "t": "fotos,",
+    "s": 12.6,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 12.9,
+  "ate": 13.92,
+  "palavras": [
+   {
+    "t": "postei",
+    "s": 12.9,
+    "d": false
+   },
+   {
+    "t": "no",
+    "s": 13.14,
+    "d": false
+   },
+   {
+    "t": "Insta",
+    "s": 13.26,
+    "d": true
+   },
+   {
+    "t": "lá.",
+    "s": 13.58,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 13.92,
+  "ate": 14.22,
+  "palavras": [
+   {
+    "t": "Inclusive,",
+    "s": 13.92,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 14.22,
+  "ate": 14.94,
+  "palavras": [
+   {
+    "t": "eu",
+    "s": 14.22,
+    "d": false
+   },
+   {
+    "t": "queria",
+    "s": 14.4,
+    "d": false
+   },
+   {
+    "t": "mostrar",
+    "s": 14.52,
+    "d": false
+   },
+   {
+    "t": "pra",
+    "s": 14.82,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 14.94,
+  "ate": 15.69,
+  "palavras": [
+   {
+    "t": "vocês.",
+    "s": 14.94,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 16.06,
+  "ate": 17.4,
+  "palavras": [
+   {
+    "t": "Olha",
+    "s": 16.06,
+    "d": false
+   },
+   {
+    "t": "a",
+    "s": 16.32,
+    "d": false
+   },
+   {
+    "t": "qualidade",
+    "s": 16.5,
+    "d": true
+   },
+   {
+    "t": "da",
+    "s": 17.16,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 17.4,
+  "ate": 18.37,
+  "palavras": [
+   {
+    "t": "foto!",
+    "s": 17.4,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 18.58,
+  "ate": 19.85,
+  "palavras": [
+   {
+    "t": "Sem",
+    "s": 18.58,
+    "d": false
+   },
+   {
+    "t": "IA!",
+    "s": 19.04,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 23.12,
+  "ate": 24.24,
+  "palavras": [
+   {
+    "t": "Pai",
+    "s": 23.12,
+    "d": false
+   },
+   {
+    "t": "tá",
+    "s": 23.58,
+    "d": false
+   },
+   {
+    "t": "shapado,",
+    "s": 23.64,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 24.24,
+  "ate": 24.99,
+  "palavras": [
+   {
+    "t": "né?",
+    "s": 24.24,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 26.16,
+  "ate": 26.58,
+  "palavras": [
+   {
+    "t": "Olha",
+    "s": 26.16,
+    "d": false
+   },
+   {
+    "t": "só,",
+    "s": 26.34,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 26.58,
+  "ate": 27.59,
+  "palavras": [
+   {
+    "t": "na",
+    "s": 26.58,
+    "d": false
+   },
+   {
+    "t": "brisinha.",
+    "s": 26.7,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 29.5,
+  "ate": 30.56,
+  "palavras": [
+   {
+    "t": "Pai",
+    "s": 29.5,
+    "d": false
+   },
+   {
+    "t": "tá",
+    "s": 29.84,
+    "d": false
+   },
+   {
+    "t": "shapado.",
+    "s": 29.9,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 30.56,
+  "ate": 31.14,
+  "palavras": [
+   {
+    "t": "Botando",
+    "s": 30.56,
+    "d": false
+   },
+   {
+    "t": "o",
+    "s": 30.6,
+    "d": false
+   },
+   {
+    "t": "pé",
+    "s": 30.86,
+    "d": false
+   },
+   {
+    "t": "pra",
+    "s": 30.98,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 31.14,
+  "ate": 32.14,
+  "palavras": [
+   {
+    "t": "entrar",
+    "s": 31.14,
+    "d": false
+   },
+   {
+    "t": "na",
+    "s": 31.3,
+    "d": false
+   },
+   {
+    "t": "água.",
+    "s": 31.6,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 32.14,
+  "ate": 33.16,
+  "palavras": [
+   {
+    "t": "Olha:",
+    "s": 32.14,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 33.16,
+  "ate": 34.14,
+  "palavras": [
+   {
+    "t": "minha",
+    "s": 33.16,
+    "d": false
+   },
+   {
+    "t": "namorada,",
+    "s": 33.62,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 34.14,
+  "ate": 35.22,
+  "palavras": [
+   {
+    "t": "louca",
+    "s": 34.14,
+    "d": true
+   },
+   {
+    "t": "por",
+    "s": 34.66,
+    "d": false
+   },
+   {
+    "t": "mim",
+    "s": 34.88,
+    "d": false
+   },
+   {
+    "t": "quando",
+    "s": 35.04,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 35.22,
+  "ate": 36.27,
+  "palavras": [
+   {
+    "t": "me",
+    "s": 35.22,
+    "d": false
+   },
+   {
+    "t": "vê",
+    "s": 35.4,
+    "d": false
+   },
+   {
+    "t": "sem",
+    "s": 35.52,
+    "d": false
+   },
+   {
+    "t": "camisa.",
+    "s": 35.64,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 37.18,
+  "ate": 39.22,
+  "palavras": [
+   {
+    "t": "São",
+    "s": 37.18,
+    "d": false
+   },
+   {
+    "t": "várias",
+    "s": 37.9,
+    "d": false
+   },
+   {
+    "t": "fotos",
+    "s": 38.62,
+    "d": false
+   },
+   {
+    "t": "que",
+    "s": 38.92,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 39.22,
+  "ate": 39.64,
+  "palavras": [
+   {
+    "t": "a",
+    "s": 39.22,
+    "d": false
+   },
+   {
+    "t": "minha",
+    "s": 39.5,
+    "d": false
+   },
+   {
+    "t": "namorada,",
+    "s": 39.54,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 39.64,
+  "ate": 41.24,
+  "palavras": [
+   {
+    "t": "louca",
+    "s": 39.64,
+    "d": true
+   },
+   {
+    "t": "por",
+    "s": 40.06,
+    "d": false
+   },
+   {
+    "t": "mim…",
+    "s": 40.46,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 41.24,
+  "ate": 41.84,
+  "palavras": [
+   {
+    "t": "Olha,",
+    "s": 41.24,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 41.84,
+  "ate": 43.88,
+  "palavras": [
+   {
+    "t": "olha,",
+    "s": 41.84,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 43.88,
+  "ate": 44.92,
+  "palavras": [
+   {
+    "t": "olha:",
+    "s": 43.88,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 44.92,
+  "ate": 46.8,
+  "palavras": [
+   {
+    "t": "ela",
+    "s": 44.92,
+    "d": false
+   },
+   {
+    "t": "não",
+    "s": 45.22,
+    "d": false
+   },
+   {
+    "t": "desgruda",
+    "s": 46.1,
+    "d": true
+   },
+   {
+    "t": "do",
+    "s": 46.28,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 46.8,
+  "ate": 47.6,
+  "palavras": [
+   {
+    "t": "namorado!",
+    "s": 46.8,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 47.6,
+  "ate": 48.9,
+  "palavras": [
+   {
+    "t": "Sabe",
+    "s": 47.6,
+    "d": false
+   },
+   {
+    "t": "o",
+    "s": 47.6,
+    "d": false
+   },
+   {
+    "t": "que",
+    "s": 48.68,
+    "d": false
+   },
+   {
+    "t": "é",
+    "s": 48.84,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 48.9,
+  "ate": 50.58,
+  "palavras": [
+   {
+    "t": "isso?",
+    "s": 48.9,
+    "d": false
+   },
+   {
+    "t": "Isso",
+    "s": 48.9,
+    "d": false
+   },
+   {
+    "t": "é",
+    "s": 48.96,
+    "d": false
+   },
+   {
+    "t": "testosterona,",
+    "s": 49.64,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 50.58,
+  "ate": 50.94,
+  "palavras": [
+   {
+    "t": "amigo!",
+    "s": 50.58,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 50.94,
+  "ate": 52.39,
+  "palavras": [
+   {
+    "t": "Isso",
+    "s": 50.94,
+    "d": false
+   },
+   {
+    "t": "é",
+    "s": 50.94,
+    "d": false
+   },
+   {
+    "t": "sex",
+    "s": 51.56,
+    "d": true
+   },
+   {
+    "t": "appeal.",
+    "s": 51.74,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 52.66,
+  "ate": 53.6,
+  "palavras": [
+   {
+    "t": "Pô,",
+    "s": 52.66,
+    "d": false
+   },
+   {
+    "t": "tá",
+    "s": 52.66,
+    "d": false
+   },
+   {
+    "t": "maluco!",
+    "s": 53.46,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 53.6,
+  "ate": 54.82,
+  "palavras": [
+   {
+    "t": "Isso",
+    "s": 53.6,
+    "d": false
+   },
+   {
+    "t": "é",
+    "s": 54.06,
+    "d": false
+   },
+   {
+    "t": "sex",
+    "s": 54.14,
+    "d": true
+   },
+   {
+    "t": "appeal,",
+    "s": 54.3,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 54.82,
+  "ate": 55.34,
+  "palavras": [
+   {
+    "t": "isso",
+    "s": 54.82,
+    "d": false
+   },
+   {
+    "t": "é",
+    "s": 54.88,
+    "d": false
+   },
+   {
+    "t": "testosterona!",
+    "s": 54.98,
+    "d": true
+   }
+  ]
+ }
+]

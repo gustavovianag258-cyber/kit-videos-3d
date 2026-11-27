@@ -1,0 +1,1577 @@
+[
+ {
+  "de": 0.0,
+  "ate": 0.86,
+  "palavras": [
+   {
+    "t": "Salve,",
+    "s": 0.0,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 0.86,
+  "ate": 1.42,
+  "palavras": [
+   {
+    "t": "Meikod!",
+    "s": 0.86,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 2.04,
+  "ate": 2.48,
+  "palavras": [
+   {
+    "t": "Salve,",
+    "s": 2.04,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 2.48,
+  "ate": 2.98,
+  "palavras": [
+   {
+    "t": "salve!",
+    "s": 2.48,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 3.34,
+  "ate": 3.62,
+  "palavras": [
+   {
+    "t": "Aí",
+    "s": 3.34,
+    "d": false
+   },
+   {
+    "t": "vem:",
+    "s": 3.5,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 3.62,
+  "ate": 5.18,
+  "palavras": [
+   {
+    "t": "menos",
+    "s": 3.62,
+    "d": false
+   },
+   {
+    "t": "de",
+    "s": 3.8,
+    "d": false
+   },
+   {
+    "t": "48",
+    "s": 4.26,
+    "d": true
+   },
+   {
+    "t": "horas,",
+    "s": 4.78,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 5.18,
+  "ate": 5.68,
+  "palavras": [
+   {
+    "t": "pai.",
+    "s": 5.18,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 5.96,
+  "ate": 6.08,
+  "palavras": [
+   {
+    "t": "Mano,",
+    "s": 5.96,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 6.08,
+  "ate": 7.0,
+  "palavras": [
+   {
+    "t": "tô",
+    "s": 6.08,
+    "d": false
+   },
+   {
+    "t": "falando",
+    "s": 6.4,
+    "d": false
+   },
+   {
+    "t": "toda",
+    "s": 6.44,
+    "d": false
+   },
+   {
+    "t": "hora",
+    "s": 6.78,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 7.0,
+  "ate": 8.16,
+  "palavras": [
+   {
+    "t": "que",
+    "s": 7.0,
+    "d": false
+   },
+   {
+    "t": "tô",
+    "s": 7.24,
+    "d": false
+   },
+   {
+    "t": "preparadaço",
+    "s": 7.32,
+    "d": false
+   },
+   {
+    "t": "pra",
+    "s": 8.06,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 8.16,
+  "ate": 8.96,
+  "palavras": [
+   {
+    "t": "essa",
+    "s": 8.16,
+    "d": false
+   },
+   {
+    "t": "porra.",
+    "s": 8.66,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 9.22,
+  "ate": 9.64,
+  "palavras": [
+   {
+    "t": "Toda",
+    "s": 9.22,
+    "d": false
+   },
+   {
+    "t": "hora",
+    "s": 9.4,
+    "d": false
+   },
+   {
+    "t": "eu",
+    "s": 9.52,
+    "d": false
+   },
+   {
+    "t": "tô",
+    "s": 9.64,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 9.64,
+  "ate": 10.38,
+  "palavras": [
+   {
+    "t": "entrando",
+    "s": 9.64,
+    "d": false
+   },
+   {
+    "t": "no",
+    "s": 9.96,
+    "d": false
+   },
+   {
+    "t": "Play,",
+    "s": 10.2,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 10.38,
+  "ate": 10.78,
+  "palavras": [
+   {
+    "t": "no",
+    "s": 10.38,
+    "d": false
+   },
+   {
+    "t": "cronômetro,",
+    "s": 10.72,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 10.78,
+  "ate": 11.54,
+  "palavras": [
+   {
+    "t": "mano.",
+    "s": 10.78,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 11.92,
+  "ate": 13.12,
+  "palavras": [
+   {
+    "t": "Você",
+    "s": 11.92,
+    "d": false
+   },
+   {
+    "t": "falou",
+    "s": 12.02,
+    "d": false
+   },
+   {
+    "t": "que",
+    "s": 12.24,
+    "d": false
+   },
+   {
+    "t": "ia",
+    "s": 12.98,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 13.12,
+  "ate": 13.82,
+  "palavras": [
+   {
+    "t": "ser",
+    "s": 13.12,
+    "d": false
+   },
+   {
+    "t": "o",
+    "s": 13.3,
+    "d": false
+   },
+   {
+    "t": "primeiro",
+    "s": 13.38,
+    "d": true
+   },
+   {
+    "t": "a",
+    "s": 13.78,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 13.82,
+  "ate": 14.58,
+  "palavras": [
+   {
+    "t": "zerar",
+    "s": 13.82,
+    "d": true
+   },
+   {
+    "t": "o",
+    "s": 13.94,
+    "d": false
+   },
+   {
+    "t": "bagulho,",
+    "s": 14.48,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 14.58,
+  "ate": 15.7,
+  "palavras": [
+   {
+    "t": "prometeu",
+    "s": 14.58,
+    "d": false
+   },
+   {
+    "t": "pra",
+    "s": 14.92,
+    "d": false
+   },
+   {
+    "t": "nós.",
+    "s": 15.34,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 16.22,
+  "ate": 17.3,
+  "palavras": [
+   {
+    "t": "Davy",
+    "s": 16.22,
+    "d": false
+   },
+   {
+    "t": "Jones",
+    "s": 16.46,
+    "d": false
+   },
+   {
+    "t": "vai",
+    "s": 16.86,
+    "d": false
+   },
+   {
+    "t": "abrir",
+    "s": 17.1,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 17.3,
+  "ate": 19.22,
+  "palavras": [
+   {
+    "t": "live",
+    "s": 17.3,
+    "d": false
+   },
+   {
+    "t": "dia",
+    "s": 17.72,
+    "d": false
+   },
+   {
+    "t": "18,",
+    "s": 18.68,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 19.52,
+  "ate": 20.74,
+  "palavras": [
+   {
+    "t": "6",
+    "s": 19.52,
+    "d": true
+   },
+   {
+    "t": "horas",
+    "s": 19.84,
+    "d": false
+   },
+   {
+    "t": "da",
+    "s": 20.22,
+    "d": false
+   },
+   {
+    "t": "manhã,",
+    "s": 20.4,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 20.74,
+  "ate": 21.24,
+  "palavras": [
+   {
+    "t": "Meikod.",
+    "s": 20.74,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 21.7,
+  "ate": 22.44,
+  "palavras": [
+   {
+    "t": "O",
+    "s": 21.7,
+    "d": false
+   },
+   {
+    "t": "bicho",
+    "s": 22.12,
+    "d": false
+   },
+   {
+    "t": "vai",
+    "s": 22.12,
+    "d": false
+   },
+   {
+    "t": "abrir",
+    "s": 22.32,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 22.44,
+  "ate": 23.46,
+  "palavras": [
+   {
+    "t": "live",
+    "s": 22.44,
+    "d": false
+   },
+   {
+    "t": "6",
+    "s": 22.68,
+    "d": true
+   },
+   {
+    "t": "horas",
+    "s": 22.98,
+    "d": false
+   },
+   {
+    "t": "da",
+    "s": 23.24,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 23.46,
+  "ate": 23.96,
+  "palavras": [
+   {
+    "t": "manhã.",
+    "s": 23.46,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 24.82,
+  "ate": 26.02,
+  "palavras": [
+   {
+    "t": "E",
+    "s": 24.82,
+    "d": false
+   },
+   {
+    "t": "diz",
+    "s": 25.22,
+    "d": false
+   },
+   {
+    "t": "ele",
+    "s": 25.62,
+    "d": false
+   },
+   {
+    "t": "que",
+    "s": 25.92,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 26.02,
+  "ate": 26.9,
+  "palavras": [
+   {
+    "t": "pela",
+    "s": 26.02,
+    "d": false
+   },
+   {
+    "t": "primeira",
+    "s": 26.18,
+    "d": false
+   },
+   {
+    "t": "vez",
+    "s": 26.48,
+    "d": false
+   },
+   {
+    "t": "vai",
+    "s": 26.76,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 26.9,
+  "ate": 28.54,
+  "palavras": [
+   {
+    "t": "fazer",
+    "s": 26.9,
+    "d": false
+   },
+   {
+    "t": "live",
+    "s": 27.1,
+    "d": false
+   },
+   {
+    "t": "24",
+    "s": 27.28,
+    "d": true
+   },
+   {
+    "t": "horas,",
+    "s": 27.8,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 28.54,
+  "ate": 29.04,
+  "palavras": [
+   {
+    "t": "pai.",
+    "s": 28.54,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 29.08,
+  "ate": 31.08,
+  "palavras": [
+   {
+    "t": "Quero",
+    "s": 29.08,
+    "d": false
+   },
+   {
+    "t": "ver",
+    "s": 30.06,
+    "d": false
+   },
+   {
+    "t": "você",
+    "s": 30.44,
+    "d": false
+   },
+   {
+    "t": "também,",
+    "s": 30.98,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 31.08,
+  "ate": 31.42,
+  "palavras": [
+   {
+    "t": "Meikod.",
+    "s": 31.08,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 31.42,
+  "ate": 32.14,
+  "palavras": [
+   {
+    "t": "Vambora,",
+    "s": 31.42,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 32.28,
+  "ate": 33.06,
+  "palavras": [
+   {
+    "t": "mano!",
+    "s": 32.28,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 35.02,
+  "ate": 35.5,
+  "palavras": [
+   {
+    "t": "Qual",
+    "s": 35.02,
+    "d": false
+   },
+   {
+    "t": "é,",
+    "s": 35.42,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 35.5,
+  "ate": 35.76,
+  "palavras": [
+   {
+    "t": "mano?",
+    "s": 35.5,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 35.76,
+  "ate": 36.26,
+  "palavras": [
+   {
+    "t": "Papo",
+    "s": 35.76,
+    "d": false
+   },
+   {
+    "t": "10?",
+    "s": 35.98,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 37.44,
+  "ate": 37.84,
+  "palavras": [
+   {
+    "t": "Qual",
+    "s": 37.44,
+    "d": false
+   },
+   {
+    "t": "é,",
+    "s": 37.76,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 37.84,
+  "ate": 38.04,
+  "palavras": [
+   {
+    "t": "mano.",
+    "s": 37.84,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 38.04,
+  "ate": 38.54,
+  "palavras": [
+   {
+    "t": "Na",
+    "s": 38.04,
+    "d": false
+   },
+   {
+    "t": "verdade,",
+    "s": 38.1,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 38.56,
+  "ate": 39.04,
+  "palavras": [
+   {
+    "t": "olha",
+    "s": 38.56,
+    "d": false
+   },
+   {
+    "t": "só:",
+    "s": 38.62,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 39.04,
+  "ate": 39.66,
+  "palavras": [
+   {
+    "t": "eu",
+    "s": 39.04,
+    "d": false
+   },
+   {
+    "t": "vou",
+    "s": 39.12,
+    "d": false
+   },
+   {
+    "t": "abrir",
+    "s": 39.22,
+    "d": false
+   },
+   {
+    "t": "live",
+    "s": 39.4,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 41.08,
+  "ate": 42.1,
+  "palavras": [
+   {
+    "t": "8",
+    "s": 41.08,
+    "d": false
+   },
+   {
+    "t": "horas",
+    "s": 41.48,
+    "d": false
+   },
+   {
+    "t": "da",
+    "s": 41.76,
+    "d": false
+   },
+   {
+    "t": "manhã",
+    "s": 41.92,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 42.1,
+  "ate": 43.12,
+  "palavras": [
+   {
+    "t": "já",
+    "s": 42.1,
+    "d": false
+   },
+   {
+    "t": "estarei",
+    "s": 42.24,
+    "d": false
+   },
+   {
+    "t": "jogando.",
+    "s": 42.64,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 44.22,
+  "ate": 45.02,
+  "palavras": [
+   {
+    "t": "8",
+    "s": 44.22,
+    "d": false
+   },
+   {
+    "t": "horas.",
+    "s": 44.62,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 45.14,
+  "ate": 47.12,
+  "palavras": [
+   {
+    "t": "8",
+    "s": 45.14,
+    "d": false
+   },
+   {
+    "t": "fucking",
+    "s": 45.26,
+    "d": true
+   },
+   {
+    "t": "horas",
+    "s": 45.4,
+    "d": false
+   },
+   {
+    "t": "estarei",
+    "s": 46.2,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 47.12,
+  "ate": 47.62,
+  "palavras": [
+   {
+    "t": "jogando.",
+    "s": 47.12,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 47.62,
+  "ate": 49.04,
+  "palavras": [
+   {
+    "t": "Eu",
+    "s": 47.62,
+    "d": false
+   },
+   {
+    "t": "quero",
+    "s": 48.02,
+    "d": false
+   },
+   {
+    "t": "convidar",
+    "s": 48.06,
+    "d": false
+   },
+   {
+    "t": "você.",
+    "s": 48.22,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 49.42,
+  "ate": 49.96,
+  "palavras": [
+   {
+    "t": "Se",
+    "s": 49.42,
+    "d": false
+   },
+   {
+    "t": "o",
+    "s": 49.52,
+    "d": false
+   },
+   {
+    "t": "Davy",
+    "s": 49.6,
+    "d": false
+   },
+   {
+    "t": "Jones",
+    "s": 49.72,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 49.96,
+  "ate": 50.62,
+  "palavras": [
+   {
+    "t": "vai",
+    "s": 49.96,
+    "d": false
+   },
+   {
+    "t": "abrir",
+    "s": 50.12,
+    "d": false
+   },
+   {
+    "t": "live",
+    "s": 50.28,
+    "d": false
+   },
+   {
+    "t": "6",
+    "s": 50.44,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 50.62,
+  "ate": 51.12,
+  "palavras": [
+   {
+    "t": "horas",
+    "s": 50.62,
+    "d": false
+   },
+   {
+    "t": "da",
+    "s": 50.84,
+    "d": false
+   },
+   {
+    "t": "manhã,",
+    "s": 50.94,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 51.14,
+  "ate": 52.2,
+  "palavras": [
+   {
+    "t": "eu",
+    "s": 51.14,
+    "d": false
+   },
+   {
+    "t": "vou",
+    "s": 51.18,
+    "d": false
+   },
+   {
+    "t": "abrir",
+    "s": 51.2,
+    "d": false
+   },
+   {
+    "t": "5.",
+    "s": 51.38,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 53.12,
+  "ate": 54.7,
+  "palavras": [
+   {
+    "t": "Antes",
+    "s": 53.12,
+    "d": false
+   },
+   {
+    "t": "do",
+    "s": 53.64,
+    "d": false
+   },
+   {
+    "t": "Davy",
+    "s": 53.9,
+    "d": false
+   },
+   {
+    "t": "Jones!",
+    "s": 54.16,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 55.24,
+  "ate": 55.74,
+  "palavras": [
+   {
+    "t": "Quer",
+    "s": 55.24,
+    "d": false
+   },
+   {
+    "t": "saber?",
+    "s": 55.44,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 55.76,
+  "ate": 56.14,
+  "palavras": [
+   {
+    "t": "Eu",
+    "s": 55.76,
+    "d": false
+   },
+   {
+    "t": "vou",
+    "s": 55.84,
+    "d": false
+   },
+   {
+    "t": "abrir",
+    "s": 55.84,
+    "d": false
+   },
+   {
+    "t": "live",
+    "s": 55.98,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 56.14,
+  "ate": 58.02,
+  "palavras": [
+   {
+    "t": "4",
+    "s": 56.14,
+    "d": true
+   },
+   {
+    "t": "horas",
+    "s": 56.64,
+    "d": false
+   },
+   {
+    "t": "da",
+    "s": 57.28,
+    "d": false
+   },
+   {
+    "t": "manhã.",
+    "s": 57.52,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 58.34,
+  "ate": 58.86,
+  "palavras": [
+   {
+    "t": "Porra!",
+    "s": 58.34,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 59.48,
+  "ate": 61.14,
+  "palavras": [
+   {
+    "t": "Quero",
+    "s": 59.48,
+    "d": false
+   },
+   {
+    "t": "nem",
+    "s": 59.82,
+    "d": false
+   },
+   {
+    "t": "saber",
+    "s": 60.08,
+    "d": false
+   },
+   {
+    "t": "de",
+    "s": 61.06,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 61.14,
+  "ate": 61.86,
+  "palavras": [
+   {
+    "t": "porra",
+    "s": 61.14,
+    "d": false
+   },
+   {
+    "t": "nenhuma.",
+    "s": 61.28,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 62.26,
+  "ate": 62.76,
+  "palavras": [
+   {
+    "t": "Olha",
+    "s": 62.26,
+    "d": false
+   },
+   {
+    "t": "só:",
+    "s": 62.42,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 64.8,
+  "ate": 65.6,
+  "palavras": [
+   {
+    "t": "eu",
+    "s": 64.8,
+    "d": false
+   },
+   {
+    "t": "sei",
+    "s": 65.0,
+    "d": false
+   },
+   {
+    "t": "que",
+    "s": 65.26,
+    "d": false
+   },
+   {
+    "t": "muita",
+    "s": 65.44,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 65.6,
+  "ate": 67.5,
+  "palavras": [
+   {
+    "t": "gente",
+    "s": 65.6,
+    "d": false
+   },
+   {
+    "t": "vai",
+    "s": 65.8,
+    "d": false
+   },
+   {
+    "t": "querer",
+    "s": 66.04,
+    "d": false
+   },
+   {
+    "t": "ver",
+    "s": 67.2,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 67.5,
+  "ate": 68.2,
+  "palavras": [
+   {
+    "t": "o",
+    "s": 67.5,
+    "d": false
+   },
+   {
+    "t": "Alanzoka,",
+    "s": 67.6,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 68.94,
+  "ate": 69.64,
+  "palavras": [
+   {
+    "t": "vai",
+    "s": 68.94,
+    "d": false
+   },
+   {
+    "t": "querer",
+    "s": 69.14,
+    "d": false
+   },
+   {
+    "t": "ver",
+    "s": 69.36,
+    "d": false
+   },
+   {
+    "t": "o",
+    "s": 69.56,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 69.64,
+  "ate": 70.32,
+  "palavras": [
+   {
+    "t": "Davy",
+    "s": 69.64,
+    "d": false
+   },
+   {
+    "t": "Jones,",
+    "s": 69.84,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 70.82,
+  "ate": 71.76,
+  "palavras": [
+   {
+    "t": "vai",
+    "s": 70.82,
+    "d": false
+   },
+   {
+    "t": "querer",
+    "s": 71.0,
+    "d": false
+   },
+   {
+    "t": "ver",
+    "s": 71.18,
+    "d": false
+   },
+   {
+    "t": "outros",
+    "s": 71.44,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 71.76,
+  "ate": 72.84,
+  "palavras": [
+   {
+    "t": "streamers",
+    "s": 71.76,
+    "d": false
+   },
+   {
+    "t": "por",
+    "s": 72.28,
+    "d": false
+   },
+   {
+    "t": "aí.",
+    "s": 72.62,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 73.3,
+  "ate": 73.82,
+  "palavras": [
+   {
+    "t": "Mas",
+    "s": 73.3,
+    "d": false
+   },
+   {
+    "t": "olha",
+    "s": 73.46,
+    "d": false
+   },
+   {
+    "t": "só:",
+    "s": 73.58,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 74.08,
+  "ate": 75.24,
+  "palavras": [
+   {
+    "t": "a",
+    "s": 74.08,
+    "d": false
+   },
+   {
+    "t": "forma",
+    "s": 74.2,
+    "d": false
+   },
+   {
+    "t": "que",
+    "s": 74.5,
+    "d": false
+   },
+   {
+    "t": "eu",
+    "s": 74.84,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 75.24,
+  "ate": 76.42,
+  "palavras": [
+   {
+    "t": "vejo",
+    "s": 75.24,
+    "d": false
+   },
+   {
+    "t": "o",
+    "s": 75.86,
+    "d": false
+   },
+   {
+    "t": "jogo,",
+    "s": 76.06,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 76.74,
+  "ate": 78.56,
+  "palavras": [
+   {
+    "t": "que",
+    "s": 76.74,
+    "d": false
+   },
+   {
+    "t": "eu",
+    "s": 77.02,
+    "d": false
+   },
+   {
+    "t": "faço",
+    "s": 77.48,
+    "d": false
+   },
+   {
+    "t": "acontecer,",
+    "s": 77.94,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 78.82,
+  "ate": 79.38,
+  "palavras": [
+   {
+    "t": "é",
+    "s": 78.82,
+    "d": false
+   },
+   {
+    "t": "diferente.",
+    "s": 78.92,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 80.38,
+  "ate": 80.98,
+  "palavras": [
+   {
+    "t": "Então,",
+    "s": 80.38,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 80.98,
+  "ate": 81.96,
+  "palavras": [
+   {
+    "t": "se",
+    "s": 80.98,
+    "d": false
+   },
+   {
+    "t": "você",
+    "s": 81.16,
+    "d": false
+   },
+   {
+    "t": "quiser",
+    "s": 81.36,
+    "d": false
+   },
+   {
+    "t": "ver",
+    "s": 81.7,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 81.96,
+  "ate": 82.96,
+  "palavras": [
+   {
+    "t": "um",
+    "s": 81.96,
+    "d": false
+   },
+   {
+    "t": "cria",
+    "s": 82.06,
+    "d": true
+   },
+   {
+    "t": "de",
+    "s": 82.38,
+    "d": false
+   },
+   {
+    "t": "verdade,",
+    "s": 82.58,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 83.22,
+  "ate": 84.74,
+  "palavras": [
+   {
+    "t": "um",
+    "s": 83.22,
+    "d": false
+   },
+   {
+    "t": "vagabundo",
+    "s": 83.26,
+    "d": false
+   },
+   {
+    "t": "nato,",
+    "s": 84.0,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 84.74,
+  "ate": 88.38,
+  "palavras": [
+   {
+    "t": "jogando",
+    "s": 84.74,
+    "d": false
+   },
+   {
+    "t": "GTA",
+    "s": 85.08,
+    "d": true
+   },
+   {
+    "t": "6...",
+    "s": 87.2,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 92.1,
+  "ate": 93.46,
+  "palavras": [
+   {
+    "t": "Jogando",
+    "s": 92.1,
+    "d": false
+   },
+   {
+    "t": "GTA",
+    "s": 92.74,
+    "d": true
+   },
+   {
+    "t": "6,",
+    "s": 93.16,
+    "d": true
+   }
+  ]
+ },
+ {
+  "de": 93.46,
+  "ate": 93.96,
+  "palavras": [
+   {
+    "t": "vem",
+    "s": 93.46,
+    "d": false
+   },
+   {
+    "t": "comigo,",
+    "s": 93.82,
+    "d": false
+   }
+  ]
+ },
+ {
+  "de": 93.96,
+  "ate": 94.54,
+  "palavras": [
+   {
+    "t": "pai!",
+    "s": 93.96,
+    "d": false
+   }
+  ]
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "de": 19.52,
+  "src": 157.7,
+  "dur": 3.1,
+  "nome": "maluquice"
+ },
+ {
+  "de": 28.91,
+  "src": 165.4,
+  "dur": 1.5,
+  "nome": "ovos"
+ },
+ {
+  "de": 30.65,
+  "src": 187.9,
+  "dur": 3.8,
+  "nome": "tentaculo"
+ },
+ {
+  "de": 40.94,
+  "src": 378.4,
+  "dur": 2.1,
+  "nome": "torre"
+ },
+ {
+  "de": 50.93,
+  "src": 595.0,
+  "dur": 1.6,
+  "nome": "fogo"
+ },
+ {
+  "de": 54.87,
+  "src": 632.6,
+  "dur": 2.0,
+  "nome": "vacas"
+ },
+ {
+  "de": 58.41,
+  "src": 641.5,
+  "dur": 2.5,
+  "nome": "leite"
+ },
+ {
+  "de": 63.35,
+  "src": 724.8,
+  "dur": 11.7,
+  "nome": "sonho"
+ },
+ {
+  "de": 81.94,
+  "src": 774.2,
+  "dur": 2.8,
+  "nome": "incrivel"
+ }
+]

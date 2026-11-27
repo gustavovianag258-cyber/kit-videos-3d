@@ -1,0 +1,25 @@
+{
+  "aviso": "NARRAÇÃO-GUIA PROVISÓRIA (voz sintética). Será substituída pela narração definitiva.",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+6%",
+  "duracaoTotal": 58.6,
+  "comoUsar": "inicio = segundo em que a fala começa. seguir: true = na narração final, a fala vem logo depois da anterior com a pausa natural da gravação (o inicio é ignorado).",
+  "falas": [
+    { "id": "s1a", "inicio": 0.4, "texto": "E se a Terra fosse plana?" },
+    { "id": "s1b", "seguir": true, "inicio": 2.6, "texto": "Tipo... você abre a janela e dá de cara com isso." },
+    { "id": "s2a", "inicio": 6.6, "texto": "Um disco gigante. Uma pizza cósmica, com borda!" },
+    { "id": "s2b", "seguir": true, "inicio": 10.9, "texto": "E o Sol acendendo só um pedaço dela." },
+    { "id": "s3a", "inicio": 13.3, "texto": "Aí todo mundo pensa: vai geral sair voando!" },
+    { "id": "s3b", "inicio": 16.3, "texto": "Calma, não é assim!" },
+    { "id": "s3c", "seguir": true, "inicio": 18.2, "texto": "A gravidade quer saber onde está a massa." },
+    { "id": "s3d", "seguir": true, "inicio": 20.8, "texto": "No centro, puxa reto. Perto da borda, puxa torto, tipo ladeira." },
+    { "id": "s4a", "inicio": 26.3, "texto": "E o mar? Ia despencar pela borda?" },
+    { "id": "s4b", "inicio": 29.9, "texto": "Spoiler: não." },
+    { "id": "s4c", "seguir": true, "inicio": 31.7, "texto": "A água segue a gravidade e ia escorrer pro centro. Praia na borda? Esquece." },
+    { "id": "s5a", "inicio": 37.7, "texto": "E o ar? Segurar uma atmosfera depende de gravidade, temperatura e gases." },
+    { "id": "s5b", "inicio": 43.4, "texto": "E os satélites? Copiar a órbita de hoje não rola." },
+    { "id": "s5c", "seguir": true, "inicio": 47.4, "texto": "Recalcula tudo, engenheiros!" },
+    { "id": "s6a", "inicio": 50.7, "texto": "Resumindo: achatar o planeta bagunçaria muito mais do que a vista." },
+    { "id": "s6b", "inicio": 54.9, "texto": "E aí? Você encarava morar nessa pizza?" }
+  ]
+}

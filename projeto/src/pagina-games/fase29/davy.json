@@ -1,0 +1,56 @@
+[
+ {
+  "de": 25.12,
+  "src": 121.6,
+  "dur": 3.6,
+  "nome": "codigo"
+ },
+ {
+  "de": 31.86,
+  "src": 158.5,
+  "dur": 2.0,
+  "nome": "musica"
+ },
+ {
+  "de": 36.9,
+  "src": 244.4,
+  "dur": 11.0,
+  "nome": "leite"
+ },
+ {
+  "de": 52.49,
+  "src": 344.2,
+  "dur": 3.1,
+  "nome": "esqueleto"
+ },
+ {
+  "de": 58.38,
+  "src": 402.4,
+  "dur": 1.5,
+  "nome": "oque"
+ },
+ {
+  "de": 63.37,
+  "src": 424.8,
+  "dur": 1.6,
+  "nome": "carregar"
+ },
+ {
+  "de": 68.21,
+  "src": 503.0,
+  "dur": 3.5,
+  "nome": "nave"
+ },
+ {
+  "de": 76.8,
+  "src": 542.7,
+  "dur": 2.6,
+  "nome": "aumentou"
+ },
+ {
+  "de": 83.39,
+  "src": 606.8,
+  "dur": 2.0,
+  "nome": "goat"
+ }
+]
